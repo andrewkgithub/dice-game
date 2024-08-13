@@ -17,4 +17,5 @@ This is a Javascript project for The Complete Web Development Bootcamp Course by
 ![image](https://github.com/user-attachments/assets/21c6ff61-3f71-47b9-bf7b-3edae87106af)
 
 
+## Live Site
 Site is live at https://andrewkgithub.github.io/dice-game/
